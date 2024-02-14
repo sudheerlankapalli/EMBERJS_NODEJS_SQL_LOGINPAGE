@@ -1,0 +1,45 @@
+body{
+  background-color: bisque;
+}
+.login{
+  margin-left:32px;
+  color:black;
+}
+.div1{
+  margin-top:40px;
+height: 35%;
+width: 23%;
+background-color:red;
+margin-top:50px;
+margin-left: 450px;
+border-radius:12px;
+border-color:black;
+}
+.div2{
+  height: 50%;
+  width: 23%;
+  background-color:burlywood;
+  margin-top:50px;
+  margin-left: 450px;
+border-radius:12px;
+}
+.input1{
+margin-left:27px;
+}
+.input2{
+  margin-left:25px;
+  }
+  .input3{
+    margin-left:56px;
+    }
+
+    .input5{
+      margin-left:43px;
+      }
+.submit{
+  height:32px;
+  width:65px;
+  border-radius:2px;
+margin-left:102px;
+cursor: pointer;
+}
